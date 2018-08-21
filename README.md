@@ -22,10 +22,10 @@ Please cite the following paper if you feel this repository useful. <br/>
 http://ieeexplore.ieee.org/abstract/document/7880648/
 http://openaccess.thecvf.com/content_ICCV_2017_workshops/w44/html/Zhang_Learning_Spatiotemporal_Features_ICCV_2017_paper.html
 ```
-@article{ZhuTMM2017,
+@article{ZhuTMM2018,
   title={Continuous Gesture Segmentation and Recognition using 3DCNN and Convolutional LSTM},
   author={Liang Zhang and Guangming Zhu and Peiyi Shen and Juan Song and Syed Afaq Shah and Mohammed Bennamoun},
-  journal={TMM},
+  journal={IEEE Transactions on Multimedia},
   year={2018}
 }
 @article{ZhuICCV2017,
