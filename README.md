@@ -24,7 +24,7 @@ http://openaccess.thecvf.com/content_ICCV_2017_workshops/w44/html/Zhang_Learning
 ```
 @article{ZhuTMM2018,
   title={Continuous Gesture Segmentation and Recognition using 3DCNN and Convolutional LSTM},
-  author={Liang Zhang and Guangming Zhu and Peiyi Shen and Juan Song and Syed Afaq Shah and Mohammed Bennamoun},
+  author={Guangming Zhu and Liang Zhang and Peiyi Shen and Juan Song and Syed Afaq Shah and Mohammed Bennamoun},
   journal={IEEE Transactions on Multimedia},
   year={2018}
 }
